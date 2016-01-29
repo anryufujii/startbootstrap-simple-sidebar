@@ -1,0 +1,14 @@
+@charset "UTF-8";
+#visual {
+	padding: 0;
+	margin: 0;
+}
+.row_nopad {
+	padding: 0;
+	margin: 0;
+}
+.row_nopad h1 {
+	margin-top: 0;}
+.img-responsive {
+	width: 100%;
+}
